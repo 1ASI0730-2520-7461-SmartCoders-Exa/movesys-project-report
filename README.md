@@ -1,7 +1,7 @@
 <div align ="center">
 
 # Informe del Trabajo Final
-![Banner-UPC.png](README.md/resources/Banner-UPC.png)
+![Banner-UPC.png](Resources/Banner-UPC.png)
 
 ## Universidad Peruana de Ciencias Aplicadas
 ### Ingeniería de Software 💻
@@ -162,7 +162,7 @@ Buscamos consolidarnos como referentes en innovación logística, impulsando un 
 | **Código del Estudiante** | U202114701                         |
 | **Carrera**               | Ingeniería de Software             |
 | **Descripción**           | Soy estudiante de Ingeniería de Software. Tendre el compromiso con mi equipo. Cuento con conocimientos en html, css, javascript y SQL, lo cual puede ser de ayuda en el desarrollo del proyecto  |
-| Foto                      |   ![Integrante_Angel_Berrospi.jpg](README.md/Resources/) |
+| Foto                      |   ![Integrante_Angel_Berrospi.jpg](Resources/Integrante_Angel_Berrospi.jpg) |
 
 
 | **Integrante**            | **Mel Andre**                                             |
@@ -257,7 +257,7 @@ Estaremos en lo cierto cuando no se registren manipulaciones indebidas de datos 
 
 ### 1.2.2.4. Lean UX Canvas.
     
-![Lean_Product_Canvas.png](README.md/Resources/)
+![Lean_Product_Canvas.png](Resources/Lean_Product_Canvas.png)
 
 ## 1.3. Segmentos objetivo.
 
