@@ -260,8 +260,49 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 ### 4.2.5. Navigation Systems
 
 ## 4.3. Landing Page UI Design
+
+En esta sección se presenta el **mock-up de la landing page** diseñada para la plataforma **MoveSys**.  
+A diferencia del wireframe, este mock-up ofrece una representación visual más cercana al producto final, integrando **colores, tipografías, imágenes** y la **disposición de los elementos de contenido** que reflejan la identidad visual de la marca.  
+
+El propósito de esta propuesta es mostrar cómo se transmitirán los **beneficios principales del sistema**, el **problema que soluciona**, su **propuesta de valor** y la forma en que facilitará el **contacto con potenciales usuarios o clientes** interesados en la solución.
+
 ### 4.3.1. Landing Page Wireframe
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2e1dcba-b90d-4fe7-97a6-5add3e31b7b1"  width="700" height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d06f55a-fe46-4c43-9f9e-72c4dfe0d36c"  width="700" height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/065681c3-4bca-440e-a762-ebe09334158f"  width="700"  height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17837aff-a552-4676-935e-88f8dca5e6f0"   width="700"   height="1216"/>
+</p>
+
 ### 4.3.2. Landing Page Mock-up
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eca8f969-f78b-48bf-9f27-ea2e86a8dd38" width="700" height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82f005cc-48a5-4e89-b754-b94b199c88a0" width="700" height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab1ab7c1-93ca-46b1-93c8-194399c56a70" width="700" height="1216"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18418432-7ac2-4ef8-b944-caa2b50fb631" width="700" height="1216"/>
+</p>
+
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
