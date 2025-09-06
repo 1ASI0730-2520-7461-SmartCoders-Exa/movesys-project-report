@@ -230,10 +230,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 #### Segmento Objetivo 1: Compañías de transporte de carga
 1.  ¿Cuál es el mayor reto que enfrenta actualmente en la gestión de su flota?
 2.	 ¿Cuántos vehículos administra y qué tipos de rutas realizan normalmente?
-3.	 ¿Actualmente cómo llevan el control de kilometraje y combustible: en papel, Excel o software? (simple, estilo CO-BOX)
+3.	 ¿Actualmente cómo llevan el control de kilometraje y combustible: en papel, Excel o software? 
 4.	 ¿Qué problemas surgen al depender de registros manuales en sus operaciones diarias?
 5.	 ¿Qué indicadores considera más importantes al evaluar la eficiencia de su flota?
-6.	 ¿Qué tan complicado le resulta generar reportes de sus operaciones hoy en día? (simple, estilo CO-BOX)
+6.	 ¿Qué tan complicado le resulta generar reportes de sus operaciones hoy en día? 
 7.	 ¿Cómo afectan los errores en el registro de datos a la planificación y los costos de su empresa?
 8.	 ¿Qué beneficios esperaría obtener de una plataforma digital como MoveSys?
 9.	 ¿Qué nivel de capacitación considera necesario para que sus trabajadores adopten una app de este tipo?
