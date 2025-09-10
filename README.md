@@ -242,7 +242,18 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 # Capítulo III: Requirements Specification
 
 ## 3.1. User Stories
+
 ## 3.2. Impact Mapping
+
+Gestor de flota
+
+![IM_Gestor_Flota](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/im_gestor_flota.png)
+
+Conductores de transporte
+
+![IM_Conductor_transporte](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/im_conductor_vehiculos_transporte.png)
+
+
 ## 3.3. Product Backlog
 
 
