@@ -233,9 +233,30 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+
+Segmento 1: Gestor de Flota
+
+![Gestor_Flota](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/s1_%20gestor_flota.png)
+
+Segmento 2: Conductor de vehículos de transporte
+
+![Conductor de vehiculos de transporte](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/s2_conductor_vehiculos_transporte.png)
+
 ### 2.3.4. Empathy Mapping
 
+El Empathy Mapping es una metodología que permite profundizar en la comprensión de los usuarios vinculados a la gestión de operaciones logísticas, identificando sus pensamientos, emociones, acciones y necesidades. Se organiza en apartados como: ¿Qué escucha?, ¿Qué observa?, ¿Qué piensa y siente?, ¿Qué expresa y realiza?, junto con sus frustraciones y motivaciones. Esta herramienta contribuye a que los equipos de trabajo diseñen soluciones más cercanas a las experiencias reales de los actores involucrados en la cadena logística. A continuación, se presentan los mapas de empatía de los segmentos definidos:
+
+Gestores de flota:
+
+![EM_Gestor_Flota](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/em_gestor_flota.png)
+
+ Conductores de vehículos de transporte
+
+ ![EM_Conductores_Transporte](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/462cf89ace79cfd43d8b9c9c75838c4abfb566f9/Resources/em_conductor_veh%C3%ADculos_transporte.png)
+ 
+
 ## 2.4. Big Picture EventStorming
+
 ## 2.5. Ubiquitous Language
 
 
