@@ -257,6 +257,14 @@ Gestores de flota:
 
 ## 2.4. Big Picture EventStorming
 
+
+![EventStorming_Final](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/f7b6109fd836af8c5e88fc44f9d61b066a90852e/Resources/EventStorming_Final2.png)
+![EventStorming_Inicial](https://github.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/blob/fcb79320366343cd747a037beb506c2a376e961b/Resources/EventStorming_inicial.jpg)
+ 
+ 
+ 
+
+
 ## 2.5. Ubiquitous Language
 
 El Lenguaje Ubicuo hace referencia a un vocabulario común y compartido que emplean tanto los miembros del equipo de desarrollo como los usuarios finales y demás actores vinculados al proyecto. Su propósito es garantizar una comunicación clara y consistente sobre los conceptos, términos y procesos relacionados con el desarrollo del software. A continuación, se muestra la lista de términos definidos para el desarrollo de la plataforma.
@@ -271,8 +279,6 @@ El Lenguaje Ubicuo hace referencia a un vocabulario común y compartido que empl
 * Alertas proactivas de incidencias: Notificaciones automáticas ante retrasos, fallas o desvíos.
 * Indicador clave de rendimiento (KPI): Métricas de desempeño de conductores, rutas y operaciones.
 * Geocerca:Zona virtual que genera alertas cuando un vehículo entra o sale de ella.
-
-
 
 
 # Capítulo III: Requirements Specification
