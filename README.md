@@ -1,5 +1,5 @@
+![Logo_Upc](https://raw.githubusercontent.com/1ASI0730-2520-7461-SmartCoders-Exa/movesys-project-report/develop/assets/logo-upc.jpg)
 
-![Logo_Upc](.feature/user-stories/assets/logo-upc.jpg)
 <div align="center">
 
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
