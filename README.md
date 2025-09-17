@@ -1,5 +1,5 @@
 
-![Logo_Upc](/assets/logo-upc.jpg)
+![Logo_Upc](../assets/logo-upc.jpg)
 <div align="center">
 
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
