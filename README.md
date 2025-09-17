@@ -1,9 +1,13 @@
+
+![Logo_Upc](./assets/logo-upc.jpg)
 <div align="center">
 
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
+
 ![Logo_Upc](./assets/logo-upc.jpg)
 
+<img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/UPC-logo.png"
  
 <img src="https://raw.githubusercontent.com/PeSoftwareUPC/report-smartflow/refs/heads/main/imgs/UPC-logo.png"
 alt="Logo UPC"
